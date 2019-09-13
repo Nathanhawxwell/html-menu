@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+  <table>
+    <tr>
+      <th>Image</th>
+      <th>Dish</th>
+      <th>Price</th>
+    </tr>
+    <tr>
+      <td><img height="100px" width= "100px" src="https://image.cnbcfm.com/api/v1/image/106119210-1568033054486gettyimages-1163074464.jpeg?v=1568033089&w=678&h=381"></td>
+      <td style="color:INDIANRED;">Chicken Sandwich</td>
+      <td style= "color:green;">$5.00</td>
+     </tr>
+     <tr>
+     <td><img height="100px" width="100px" src="https://www.jessicagavin.com/wp-content/uploads/2019/05/how-to-cook-corn-on-the-cob-8-1200.jpg">
+     <td style="color:gold;">Corn on the Cob</td>
+     <td style="color:green;">$3.00</td>
+     <tr>
+      <td><img height="100px" width= "100px" src="https://www.thespruceeats.com/thmb/vUIP0xhRjal9twCyZ1BTXCwCbiM=/3029x2272/smart/filters:no_upscale()/steamed-green-beans-2-5b0bf28c8023b90036b080d4.jpg"></td>
+      <td style="color:springgreen;">Green Beans</td>
+      <td style= "color:green">$1.00</td>
+     </tr>
+  <tr>
+      <td><img height="100px" width= "100px" src="https://www.incredibleegg.org/wp-content/uploads/Simple-Egg-Salad-Sandwich-2-930x550.jpg"></td>
+      <td style="color:thistle;">Egg Salad Sandwhich</td>
+      <td style="color:green;">$4.00</td>
+ </tr>
+      <tr>
+      <td><img height="100px" width= "100px" src="https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2018%2F12%2F8cfbcbb2919742682345681d469b7417a73e4dfe.jpeg"></td>
+      <td style="color:brown;">4 Pancakes</td>
+      <td style="color:green;">$6.00</td>
+     </tr>
+     <tr>
+      <td><img height="100px" width="100px" src="https://www.seriouseats.com/2018/04/20180309-french-fries-vicky-wasik-15-1500x1125.jpg"></td>
+      <td style="color:orangered;">Fries</td>
+      <td style="color:green;">$3.00</td>
+     </tr>
+     <tr>
+      <td><img height="100px" width="100px" src="https://www.cfacdn.com/img/order/COM/Menu_Refresh/Breakfast/Breakfast%20PDP/_0000s_0000_Stack620_0000_CFA_1605_60_Biscuit_Chicken_PROD_2155_1240px.png"></td>
+      <td style="color:peru;">Chicken Sandwhich</td>
+      <td style="color:green;">$5.00</td>
+     </tr>
+     <tr>
+      <td><img height="100px" width="100px" src="https://images-na.ssl-images-amazon.com/images/I/51fQkguXh7L._SL1000_.jpg"></td>
+      <td style="color:PaleVioletRed;">Donut</td>
+      <td style="color:green;">$1.50</td>
+     </tr>
+     <tr>
+      <td><img height="100px" width="100px" src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/10/25/1/CC_Alton-Brown-Cocoa-Brownies_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371600408087.jpeg"></td>
+      <td style="color:saddlebrown;">Brownie</td>
+      <td style="color:green;">$1.00</td>
+     </tr>
+     <tr>
+      <td><img height="100px" width="100px" src="https://www.cookingmamas.com/wp-content/uploads/2013/05/Funnel-Cakes-6.jpg"></td>
+      <td style="color:tan;">Funnel Cake</td>
+      <td style="color:green;">$2.50</td>
+     </tr>
+    
+  </table>
+  </li>
